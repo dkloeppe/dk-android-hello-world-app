@@ -1,2 +1,2 @@
-# dk-hello-world-android-app
-Hello World Android App
+# dk-android-hello-world-app
+Android Hello World app
